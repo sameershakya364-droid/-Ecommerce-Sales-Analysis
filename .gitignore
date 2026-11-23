@@ -1,0 +1,10 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db
+data/processed/*.json
+reports/figures/*.png
